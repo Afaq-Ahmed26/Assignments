@@ -13,3 +13,5 @@ Calculate squares: The program will calculate the square of each of your favorit
 Sum the numbers: The program will sum up your three favorite numbers.
 
 Prime number check: Finally, the program will check if the sum of your favorite numbers is a prime number and display the result.
+
+https://docs.google.com/document/d/1nWqRa9yCAxKry-aPGSiV8Bn3PVrlhzRUOw-hGVMO1ZM/edit?usp=sharing
